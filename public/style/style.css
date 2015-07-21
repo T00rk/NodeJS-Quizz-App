@@ -1,0 +1,12 @@
+.center { text-align: center; }
+.hidden { display: none; }
+
+ul > li { list-style-type: none; }
+button.answer { width: 100%; }
+
+body { padding-top: 100px; }
+
+#player-list li > span.right { float: right; }
+#player-list li:after { clear: both; }
+
+#question { padding-top: 20px; }
